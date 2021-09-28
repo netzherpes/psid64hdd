@@ -1,0 +1,11 @@
+* Allow custom post reset function, e.g. to load a menu from disk.
+
+* Compatibility mode for PAL SIDs on an NTSC computer and vice versa.
+
+* Provide a default power on environment to the SIDs.
+
+* Display all PSID header information.
+
+* Investigate the use of PSID heuristics (e.g. Rockmonitor support).
+
+* Improve C64 demo: make it more colorful, add a better scroller, etc.
