@@ -1,5 +1,7 @@
 # psid64hdd
-A PSID64 INTERFACE FOR 64HDD
+
+Old, but not being found anywhere anymore. Thats why its here
+
 
 
 ```
@@ -9,6 +11,7 @@ A PSID64 INTERFACE FOR 64HDD
  |_|  |___/___|___/\___/ |_||_||_|___/|___/GUI
 
 ```
+A PSID64 INTERFACE FOR 64HDD
 
 This software is the glue between Nickolas Coplin's 64HDD and 
 Roland Herman's PSID64.
